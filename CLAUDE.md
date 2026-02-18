@@ -18,7 +18,8 @@ This project uses [Beads (bd)](https://github.com/steveyegge/beads) for issue tr
 ### Session End Protocol
 1. Update issue status: `bd update <id> --status=<status>`
 2. Update `.beads/PRIME.md` with what you did
-3. Sync: `bd sync`
+3. Sync Notion project page with current beads status
+4. Sync: `bd sync`
 
 ### Quick Reference
 - `bd ready` — show ready work
